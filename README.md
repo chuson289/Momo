@@ -19,4 +19,7 @@ This Java application simulates a payment service system where users can manage 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/chuson289/momo.git
-   cd payment-service
+2. **Run from commanline** :
+   cd momo
+   java Main
+
